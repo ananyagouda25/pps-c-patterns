@@ -28,11 +28,12 @@ A collection of C programs for my B.Tech 1st Year Programming for Problem Solvin
 22. Spiral Matrix
 23. Odd Only Floyd
 24. Even Only Floyd
-25. Floyd's triangle (alternating direction)
-26. Prime Pair Problem
-27. Missing Number
-28. Happy Number
-29. Twin Primes
+25. Reverse floyd
+26. Floyd's triangle (alternating direction)
+27. Prime Pair Problem
+28. Missing Number
+29. Happy Number
+30. Twin Primes
 
 ## Language
 
