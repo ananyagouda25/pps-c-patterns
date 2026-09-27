@@ -26,14 +26,13 @@ A collection of C programs for my B.Tech 1st Year Programming for Problem Solvin
 20. Hourglass Pattern
 21. Number X
 22. Spiral Matrix
-23. Alternating 0-1 Pyramid
-24. Odd Only Floyd
-25. Even Only Floyd
-26. Floyd's triangle (alternating direction)
-27. Prime Pair Problem
-28. Missing Number
-29. Happy Number
-30. Twin Primes
+23. Odd Only Floyd
+24. Even Only Floyd
+25. Floyd's triangle (alternating direction)
+26. Prime Pair Problem
+27. Missing Number
+28. Happy Number
+29. Twin Primes
 
 ## Language
 
